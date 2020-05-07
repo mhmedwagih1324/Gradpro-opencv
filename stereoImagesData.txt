@@ -1,3 +1,5 @@
+# Data here are generated using file "rectify.ipynb"
+
 fnamesAr is ['s7\\20200417_220303.jpg', 's7\\20200417_220356.jpg', 's7\\20200417_220428.jpg', 's7\\20200417_220458.jpg', 's7\\20200417_220522.jpg', 's7\\20200417_220545.jpg']
 
 
