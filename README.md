@@ -1,5 +1,5 @@
 # Gradpro-opencv
-
+### This installation is intended for opencv v2 on conda, not needed now as the opencv v4 is working fine now
 ## installing the environment
 1. install [conda](https://www.anaconda.com/products/individual#Downloads).
 2. open Anaconda Prompt from the start menu.
