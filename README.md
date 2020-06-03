@@ -8,8 +8,8 @@
 5. install numpy through the command: `conda install numpy`
 6. install opencv through the command: `conda install opencv`
 ### check your installation
-1. open Anaconda prompt again and activate py27 environment as steps 2 & 4 in installation
-2. type `jupyter notebook` in the prompt.
+1. open Anaconda prompt again and activate py37 environment as steps 2 & 4 in installation
+2. type `jupyter-notebook` in the prompt.
 3. from the top right corner, click `new` and choose `Python 3`
 4. type in the first cell the following code:  
 ```
