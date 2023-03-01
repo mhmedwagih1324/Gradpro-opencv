@@ -4,7 +4,7 @@
 1. install [conda](https://www.anaconda.com/products/individual#Downloads).
 2. open Anaconda Prompt from the start menu.
 3. create new environment through the command: `conda create --name py37 python=3.7`
-4. Activate the environment through the command: `activate py37`
+4. Activate the environment through the command: `conda activate py37`
 5. install numpy through the command: `conda install numpy`
 6. install opencv through the command: `conda install opencv`
 ### check your installation
